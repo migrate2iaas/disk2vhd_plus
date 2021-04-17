@@ -7,4 +7,6 @@ Features:
 - P2V - can virtualize system volumes 
 - Scriptable and configurable
 
+Original Disk2VHD by Sysinternals https://docs.microsoft.com/en-us/sysinternals/downloads/disk2vhd
+
 Under construction.
